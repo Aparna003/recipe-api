@@ -1,0 +1,10 @@
+// {
+//     "python.pythonPath": "C:\\Users\\Aparna Shankar\\Anaconda3\\python.exe",
+//     "python.linting.enabled": false
+// }
+
+{
+    "python.pythonPath": "C:\\Users\\Karan\\Anaconda3\\envs\\int\\python.exe",
+    "python.linting.pylintPath": "venv/bin/pylint",
+    "python.linting.enabled": false
+}
