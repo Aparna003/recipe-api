@@ -4,7 +4,7 @@
 // }
 
 {
-    "python.pythonPath": "C:\\Users\\Aparna\\Anaconda3\\python.exe",
+    "python.pythonPath": "C:\\Users\\Aparna Shankar\\Anaconda3\\python.exe",
     "python.linting.pylintPath": "venv/bin/pylint",
     "python.linting.enabled": true
 }
